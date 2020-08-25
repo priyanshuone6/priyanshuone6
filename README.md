@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hola 👋, I'm Priyanshu Agarwal </h1>
 
 <!--
 **priyanshuone6/priyanshuone6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
