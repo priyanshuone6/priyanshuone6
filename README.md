@@ -9,6 +9,10 @@
 - #### 😄 Pronouns: he/his
 <!-- - #### ⚡ Fun fact: ... -->
 <p align="center">
+  <br>
+  ### Find me all around the web 🌏:
+</br>
+  
 <a href="https://twitter.com/priyanshuone6" target="blank">
   <img align="center" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
