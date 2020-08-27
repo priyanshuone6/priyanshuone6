@@ -10,9 +10,9 @@
 <!-- - #### ⚡ Fun fact: ... -->
 <p align="center"><margin: auto>
   
- <h3> Find me all around the web 🌏:</h3>
+ <h3> &nbsp; Find me all around the web 🌏:</h3>
 
-  
+  &nbsp; 
 <a href="https://twitter.com/priyanshuone6" target="blank">
   <img align="center" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
