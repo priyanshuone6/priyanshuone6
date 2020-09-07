@@ -8,6 +8,9 @@
 - #### 📫 How to reach me: priyanshuone6@gmail.com
 - #### 😄 Pronouns: he/his
 <!-- - #### ⚡ Fun fact: ... -->
+- #### <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuone6" alt="priyanshuone6" /> </p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuone6&show_icons=true&count_private=true" alt="priyanshuone6" /></p>
 
   <h3 align="center">Find me all around the web 🌏:</h3>
   
@@ -27,3 +30,5 @@
 <a href="https://www.facebook.com/priyanshuone6" target="blank">
   <img align="center" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a></p>
+
+
