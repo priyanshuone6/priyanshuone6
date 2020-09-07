@@ -2,9 +2,11 @@
 
 - #### 🔭 I’m currently working on contributing to open source 
 - #### 🌱 I’m currently learning everything 😂
-- #### 👯 I’m looking to collaborate with other content creators
+- #### 👯 I’m looking to collaborate with open sourced projects
 <!-- - #### 🤔 I’m looking for help with ...
-- #### 💬 Ask me about ... -->
+- #### 💬 Ask me about ... 
+- #### 👨‍💻 All of my projects are available at (portfolio here)
+- #### 📝 I regulary write articles on -->
 - #### 📫 How to reach me: priyanshuone6@gmail.com
 - #### 😄 Pronouns: he/his
 <!-- - #### ⚡ Fun fact: ... -->
