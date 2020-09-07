@@ -2,7 +2,7 @@
 
 - #### 🔭 I’m currently working on contributing to open source 
 - #### 🌱 I’m currently learning everything 😂
-- #### 👯 I’m looking to collaborate with open sourced projects
+- #### 👯 I’m looking to collaborate on open sourced projects
 <!-- - #### 🤔 I’m looking for help with ...
 - #### 💬 Ask me about ... 
 - #### 👨‍💻 All of my projects are available at (portfolio here)
