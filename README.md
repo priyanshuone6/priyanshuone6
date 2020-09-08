@@ -10,7 +10,7 @@
 - #### 📫 How to reach me: priyanshuone6@gmail.com
 - #### 😄 Pronouns: he/his
 <!-- - #### ⚡ Fun fact: ... -->
-- #### <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuone6" alt="priyanshuone6" /> </p>
+- #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=priyanshuone6" alt="priyanshuone6" />](https://github.com/priyanshuone6)</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuone6&show_icons=true&count_private=true" alt="priyanshuone6" /></p>
 
