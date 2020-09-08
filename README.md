@@ -3,9 +3,9 @@
 - #### 🔭 I’m currently working on contributing to open source 
 - #### 🌱 I’m currently learning everything 😂
 - #### 👯 I’m looking to collaborate on open sourced projects
-<!-- - #### 🤔 I’m looking for help with ...
-- #### 💬 Ask me about ... 
-- #### 👨‍💻 All of my projects are available at (portfolio here)
+<!-- - #### 🤔 I’m looking for help with ... -->
+- #### 💬 Ask me anything, I’ll try my best to answer 
+<!-- - #### 👨‍💻 My portfolio [here](https://priyanshuone6.github.io)
 - #### 📝 I regulary write articles on -->
 - #### 📫 How to reach me: priyanshuone6@gmail.com
 - #### 😄 Pronouns: he/his
