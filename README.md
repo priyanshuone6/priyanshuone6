@@ -18,19 +18,19 @@
   
   <p align="center">
 <a href="https://twitter.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Twitter" width="30px" src="<img src="icon/twitter.png"/>
+  <img align="center" alt="Twitter" width="30px" src="<img src="icons/twitter.png"/>
 </a>
 <a href="https://linkedin.com/in/priyanshuone6" target="_blank">
-  <img align="center" alt="Linkdein" width="30px" src="<img src="icon/linkedin.png"/>
+  <img align="center" alt="Linkdein" width="30px" src="<img src="icons/linkedin.png"/>
 </a>
 <a href="https://github.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Github" width="30px" src="<img src="icon/github.png"/>
+  <img align="center" alt="Github" width="30px" src="<img src="icons/github.png"/>
 </a>
 <a href="https://instagram.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Instagram" width="30px" src="<img src="icon/instagram.png"/>
+  <img align="center" alt="Instagram" width="30px" src="<img src="icons/instagram.png"/>
 </a>
 <a href="https://www.facebook.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Facebook" width="30px" src="<img src="icon/facebook.png"/>
+  <img align="center" alt="Facebook" width="30px" src="<img src="icons/facebook.png"/>
 </a></p>
 
 
