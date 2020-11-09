@@ -18,19 +18,19 @@
   
   <p align="center">
 <a href="https://twitter.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+  <img align="center" alt="Twitter" width="30px" src="<img src="https://img.icons8.com/color/144/000000/twitter.png"/>
 </a>
 <a href="https://linkedin.com/in/priyanshuone6" target="_blank">
-  <img align="center" alt="Linkdein" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="center" alt="Linkdein" width="30px" src="<img src="https://img.icons8.com/fluent/144/000000/linkedin.png"/>
 </a>
 <a href="https://github.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Github" width="30px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
+  <img align="center" alt="Github" width="30px" src="<img src="https://img.icons8.com/fluent/144/000000/github.png"/>
 </a>
 <a href="https://instagram.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+  <img align="center" alt="Instagram" width="30px" src="<img src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>
 </a>
 <a href="https://www.facebook.com/priyanshuone6" target="_blank">
-  <img align="center" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+  <img align="center" alt="Facebook" width="30px" src="<img src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>
 </a></p>
 
 
