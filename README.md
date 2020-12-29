@@ -1,4 +1,4 @@
-[<img src = "https://github.com/priyanshuone6/priyanshuone6/blob/master/intro.png">](https://github.com/priyanshuone6)
+[<img src = "banner.png">](https://github.com/priyanshuone6)
 
 - #### 🔭 I’m currently working on contributing to open source 
 - #### 🌱 I’m currently learning everything 😂
