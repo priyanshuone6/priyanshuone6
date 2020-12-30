@@ -1,14 +1,14 @@
-[<img src = "banner.png">](https://github.com/priyanshuone6)
+[<img src = "intro.png">](https://github.com/priyanshuone6)
 
-- #### 🔭 I’m currently working on contributing to open source 
-- #### 🌱 I’m currently learning everything 😂
-- #### 👯 I’m looking to collaborate on open sourced projects
+- #### 🔭 Currently working on contributing to open source 
+- #### 🌱 Currently learning python frameworks
+- #### 👯 Looking to collaborate on open sourced projects
 <!-- - #### 🤔 I’m looking for help with ... -->
 - #### 💬 Ask me anything, I’ll try my best to answer 
 <!-- - #### 👨‍💻 My portfolio [here](https://priyanshuone6.github.io)
 - #### 📝 I regulary write articles on -->
 - #### 📫 How to reach me: priyanshuone6@gmail.com
-- #### 😄 Pronouns: he/his
+- #### 😄 Pronouns: he/his/him
 <!-- - #### ⚡ Fun fact: ... -->
 - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=priyanshuone6" alt="priyanshuone6" />](https://github.com/priyanshuone6)</p>
 
@@ -32,5 +32,3 @@
 <a href="https://www.facebook.com/priyanshuone6" target="blank">
   <img align="center" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a></p>
-
-
