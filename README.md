@@ -5,8 +5,8 @@
 - #### 👯 Looking to collaborate on open sourced projects
 <!-- - #### 🤔 I’m looking for help with ... -->
 - #### 💬 Ask me anything, I’ll try my best to answer 
-<!-- - #### 👨‍💻 My portfolio [here](https://priyanshuone6.github.io)
-- #### 📝 I regulary write articles on -->
+- #### 👨‍💻 View my [portfolio](https://priyanshuone6.github.io)
+- #### 📝 I write articles on [dev](https://dev.to/priyanshu)
 - #### 📫 How to reach me: priyanshuone6@gmail.com
 - #### 😄 Pronouns: he/his/him
 <!-- - #### ⚡ Fun fact: ... -->
