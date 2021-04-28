@@ -11,7 +11,9 @@
 - #### 😄 Pronouns: he/his/him
 <!-- - #### ⚡ Fun fact: ... -->
 - #### [<img align="center" src="https://komarev.com/ghpvc/?username=priyanshuone6&style=flat-square&color=DE970B" alt="priyanshuone6" />](https://github.com/priyanshuone6)
-- ### [<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuone6&hide_rank=true&include_all_commits=false&show_icons=true&count_private=true&custom_title=GitHub Stats" alt="priyanshuone6" />](https://github.com/priyanshuone6)
+- #### [<img align="center" src="https://raw.githubusercontent.com/priyanshuone6/readme_stats/output/generated/overview.svg" />](https://github.com/priyanshuone6)
+<!--  [<img align="center" src="https://raw.githubusercontent.com/priyanshuone6/readme_stats/output/generated/languages.svg" />](https://github.com/priyanshuone6)
+- ### [<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuone6&hide_rank=true&include_all_commits=false&show_icons=true&count_private=true&custom_title=GitHub Stats" alt="priyanshuone6" />](https://github.com/priyanshuone6) -->
 <h3 align="center">Find me around the web 🌏:</h3>
 <p align="center">
    <a href="https://twitter.com/priyanshuone6" target="_blank">
