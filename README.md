@@ -28,18 +28,18 @@
 <h3 align="center">Find me around the web 🌏:</h3>
 <p align="center">
    <a href="https://twitter.com/priyanshuone6" target="_blank">
-   <img align="center" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+   <img align="center" alt="Twitter" width="30px" src="twitter.png" />
    </a>&nbsp;
    <a href="https://linkedin.com/in/priyanshuone6" target="_blank">
-   <img align="center" alt="Linkedin" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+   <img align="center" alt="Linkedin" width="30px" src="linkedin.png" />
    </a>&nbsp;
    <a href="https://github.com/priyanshuone6" target="_blank">
-   <img align="center" alt="GitHub" width="30px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />
+   <img align="center" alt="GitHub" width="30px" src="github.png" />
    </a>&nbsp;
    <a href="https://instagram.com/priyanshuone6" target="blank">
-   <img align="center" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+   <img align="center" alt="Instagram" width="30px" src="instagram.png" />
    </a>&nbsp;
    <a href="https://www.facebook.com/priyanshuone6" target="_blank">
-   <img align="center" alt="Facebook" width="30px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+   <img align="center" alt="Facebook" width="30px" src="facebook.png" />
    </a>
 </p>
