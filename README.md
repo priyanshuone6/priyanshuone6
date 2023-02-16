@@ -25,7 +25,7 @@
 
 <!-- - ### [<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuone6&hide_rank=true&include_all_commits=false&show_icons=true&count_private=true&custom_title=GitHub Stats" alt="priyanshuone6" />](https://github.com/priyanshuone6) -->
 
-<h3 align="center">Find me around the web 🌏:</h3>
+<!-- <h3 align="center">Find me around the web 🌏:</h3>
 <p align="center">
    <a href="https://twitter.com/priyanshuone6" target="_blank">
    <img align="center" alt="Twitter" width="30px" src="twitter.png" />
@@ -42,4 +42,4 @@
    <a href="https://www.facebook.com/priyanshuone6" target="_blank">
    <img align="center" alt="Facebook" width="30px" src="facebook.png" />
    </a>
-</p>
+</p> -->
